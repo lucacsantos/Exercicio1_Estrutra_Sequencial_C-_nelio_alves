@@ -1,1 +1,3 @@
 # Exercicio1_Estrutra_Sequencial_C-_nelio_alves
+#Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma 
+mensagem explicativa, conforme exemplos.
